@@ -1,1 +1,0 @@
-This section showcases a collection of Java console applications, highlighting a variety of projects and tasks within this programming domain.
